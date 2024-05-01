@@ -276,5 +276,5 @@ git push -u origin main
 
 ![name job](imgs/3.png)
 
-![pipeline setup](image.png)
+![pipeline setup](imgs/4.png)
 
